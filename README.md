@@ -1,96 +1,91 @@
-<!-- HEADER ANIMADO Y DINÁMICO (Genera una ola animada con partículas) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=KmsBismarck003&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<!-- Header rectangular con temática oscura y destellos rojos -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=[_KmsBismarck003_]&fontSize=50&fontColor=ff0000&stroke=ff0000&strokeWidth=2" width="100%"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <i>"El buen diseño es obvio. El gran diseño es transparente."</i><br><br>
-  <b>Arquitecto de Soluciones • Desarrollador Full Stack • UX/UI Enthusiast</b>
+<div align="left">
+<!-- Información directa en formato terminal -->
+<code>▶ INGENIERÍA EN DESARROLLO Y GESTIÓN DE SOFTWARE</code><br/>
+<code>▶ ARQUITECTURA MÓVIL Y LIDERAZGO TÉCNICO</code><br/>
+<br/>
+<a href="https://git.io/typing-svg">
+<!-- Animación de escritura con enfoque en tu trayectoria -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=500&size=16&pause=1000&color=ff0000&vCenter=true&width=800&lines=Arquitectura_de_Aplicaciones_Móviles;Liderazgo_Técnico_y_Gestión_Ágil;Desarrollo_de_LAIKA_Club;Despliegue_Cloud_y_Escalabilidad" alt="Typing SVG" />
+</a>
 </div>
+
+<br/>
+
+<!-- IMPORTANTE: Cero espacios de indentación al inicio de las etiquetas HTML -->
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="35%" valign="top" style="border: none; border-right: 2px solid #ff0000; padding-right: 15px;">
+
+<h3>[ NAVEGACIÓN ]</h3>
+
+<code>▶ PERFIL</code><br/>
+<code>&nbsp;&nbsp;PROYECTOS</code><br/>
+<code>&nbsp;&nbsp;TECNOLOGÍAS</code><br/>
+<code>&nbsp;&nbsp;MÉTRICAS</code><br/>
 
 <br/><br/>
 
-<!-- GRID LAYOUT DE DOS COLUMNAS (Para estructurar la información como una web real) -->
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      
-      <!-- COLUMNA IZQUIERDA: RESUMEN Y ACCORDIONES INTERACTIVOS -->
-      <td width="50%" valign="top" style="border: none; padding-right: 20px; text-align: left;">
-        <h3>⚡ Resumen Profesional</h3>
-        <p>Construyo soluciones de software que equilibran un rendimiento excepcional con interfaces intuitivas. Mi enfoque va más allá de escribir código; diseño experiencias, arquitecturas escalables y flujos de trabajo optimizados.</p>
-        
-        <br/>
-        <!-- SECCIONES INTERACTIVAS: Permite al visitante hacer click para explorar -->
-        <details>
-          <summary><b>🛠️ Mi Stack Principal (Click para expandir)</b></summary>
-          <br/>
-          <div align="center">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,tailwind,docker,aws&perline=4" />
-            </a>
-          </div>
-          <br/>
-        </details>
+<b>[ CONTACTO ]</b><br/><br/>
+<a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=ff0000&labelColor=000000&color=2a0000"></a><br/><br/>
+<a href="mailto:tu_correo@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=ff0000&labelColor=000000&color=2a0000"></a>
 
-        <details>
-          <summary><b>🌱 Filosofía de Desarrollo</b></summary>
-          <p>Priorizo la <b>escalabilidad</b>, <b>mantenibilidad</b> y <b>accesibilidad</b>. Uso metodologías ágiles y principios SOLID para asegurar que la arquitectura de backend sea tan limpia como la experiencia del usuario frontend.</p>
-        </details>
+</td>
+<td width="65%" valign="top" style="border: none; padding-left: 15px;">
 
-        <details>
-          <summary><b>📫 Contacto y Redes</b></summary>
-          <p>
-            • <a href="https://linkedin.com/in/TU_LINKEDIN">Perfil de LinkedIn</a> <br>
-            • <a href="mailto:tu_correo@gmail.com">Contacto por Correo Electrónico</a> <br>
-            • <a href="TU_WEB_O_PORTAFOLIO">Portafolio Personal</a>
-          </p>
-        </details>
-      </td>
-
-      <!-- COLUMNA DERECHA: MÉTRICAS TOTALMENTE TRANSPARENTES -->
-      <td width="50%" valign="top" style="border: none;" align="center">
-        <!-- Tarjetas sin fondo para que se integren 100% al tema oscuro/claro del visitante -->
-        <img src="https://github-readme-stats.vercel.app/api?username=KmsBismarck003&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KmsBismarck003&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&stroke=00000000&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
-      </td>
-      
-    </tr>
-  </table>
-</div>
+<h3>[ SOBRE_MÍ ]</h3>
+<code>Desarrollador enfocado en la arquitectura de software y el liderazgo de proyectos tecnológicos.<br><br>Actualmente dirijo el desarrollo de <b>LAIKA Club</b>, estructurando el ciclo de vida del producto mediante metodologías ágiles en sprints. Mi objetivo es crear plataformas escalables que integren validación de accesos, analítica predictiva y una experiencia de usuario impecable.</code>
 
 <br/><br/>
 
-<!-- SECCIÓN DE PROYECTOS (Diseño basado puramente en tipografía y espacio, sin imágenes placeholder falsas) -->
-<h3 align="center">Proyectos y Arquitecturas</h3>
+<h3>[ PROYECTO_DESTACADO ]</h3>
+<code><b>▶ LAIKA Club Platform</b><br>
+Gestión integral de eventos en vivo, ticketing y validación mediante códigos QR. Planificación de MVP coordinada a través de espacios de trabajo en JetBrains YouTrack para el seguimiento de historias de usuario y complejidad técnica.</code>
+
+<br/><br/>
+
+<!-- Lenguajes, herramientas de gestión y despliegue cloud -->
+<h3>[ STACK_Y_HERRAMIENTAS ]</h3>
+<img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=ff0000&labelColor=000000&color=2a0000">
+<img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=java&logoColor=ff0000&labelColor=000000&color=2a0000">
+<img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=ff0000&labelColor=000000&color=2a0000">
+<img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=ff0000&labelColor=000000&color=2a0000">
 <br/>
+<img src="https://img.shields.io/badge/ANDROID_STUDIO-000000?style=flat-square&logo=android-studio&logoColor=ff0000&labelColor=000000&color=2a0000">
+<img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=ff0000&labelColor=000000&color=2a0000">
+<img src="https://img.shields.io/badge/APACHE_MAVEN-000000?style=flat-square&logo=apache-maven&logoColor=ff0000&labelColor=000000&color=2a0000">
+<br/>
+<img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=ff0000&labelColor=000000&color=2a0000">
+<img src="https://img.shields.io/badge/RENDER-000000?style=flat-square&logo=render&logoColor=ff0000&labelColor=000000&color=2a0000">
+<img src="https://img.shields.io/badge/YOUTRACK-000000?style=flat-square&logo=jetbrains&logoColor=ff0000&labelColor=000000&color=2a0000">
+
+<br/><br/>
+
+<h3>[ BASES_DE_DATOS ]</h3>
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=ff0000&labelColor=000000&color=2a0000">
+<img src="https://img.shields.io/badge/MONGO_DB-000000?style=flat-square&logo=mongodb&logoColor=ff0000&labelColor=000000&color=2a0000">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<h3 align="center">[ MÉTRICAS_DE_GITHUB ]</h3>
 <div align="center">
-  <table width="100%" style="border-collapse: collapse;">
-    <tr>
-      <td width="50%" align="center" style="padding: 20px; border-right: 1px solid #30363d;">
-        <h4>🌐 Plataforma E-Commerce (Ejemplo)</h4>
-        <p><i>Arquitectura de Microservicios</i></p>
-        <p style="font-size: 0.9em; color: #8b949e;">Sistema escalable diseñado para alto tráfico, implementando pasarelas de pago seguras y gestión de inventario en tiempo real.</p>
-        <br/>
-        <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" />
-      </td>
-      <td width="50%" align="center" style="padding: 20px;">
-        <h4>📊 Dashboard de Analítica</h4>
-        <p><i>Procesamiento en Tiempo Real</i></p>
-        <p style="font-size: 0.9em; color: #8b949e;">Aplicación de visualización de datos complejos de negocio, con un fuerte enfoque en UX y tiempos de carga reducidos.</p>
-        <br/>
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs" />
-      </td>
-    </tr>
-  </table>
+<!-- Tarjetas con fondo negro puro y acentos rojos -->
+<img src="https://github-readme-stats.vercel.app/api?username=KmsBismarck003&show_icons=true&bg_color=000000&title_color=ff0000&text_color=cccccc&icon_color=ff0000&border_color=ff0000&border_radius=0&hide_border=false" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KmsBismarck003&background=000000&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=cccccc&sideNums=ffffff&sideLabels=cccccc&dates=cccccc&hide_border=false&border_radius=0" width="48%">
 </div>
 
 <br/>
 
-<!-- FOOTER ANIMADO (Cierra el diseño con estilo) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer&stroke=ff0000&strokeWidth=2" width="100%"/>
 </div>
