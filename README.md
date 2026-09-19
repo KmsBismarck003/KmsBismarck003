@@ -1,78 +1,96 @@
+<!-- HEADER ANIMADO Y DINÁMICO (Genera una ola animada con partículas) -->
 <div align="center">
-  <!-- BANNER PRINCIPAL: Pon aquí la URL de una imagen ancha. (Ej: 1500x500 px) -->
-  <img src="https://via.placeholder.com/1500x400/0D1117/38BDF8?text=Pon+tu+Imagen+Elegante+Aqui" width="100%" style="border-radius: 12px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=KmsBismarck003&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h2 align="center">KmsBismarck003</h2>
-  <!-- ANIMACIÓN DE TEXTO MINIMALISTA -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Arquitecto+de+Soluciones;Transformando+ideas+en+arquitecturas+sólidas" alt="Typing SVG" />
-  </a>
+  <i>"El buen diseño es obvio. El gran diseño es transparente."</i><br><br>
+  <b>Arquitecto de Soluciones • Desarrollador Full Stack • UX/UI Enthusiast</b>
+</div>
+
+<br/><br/>
+
+<!-- GRID LAYOUT DE DOS COLUMNAS (Para estructurar la información como una web real) -->
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      
+      <!-- COLUMNA IZQUIERDA: RESUMEN Y ACCORDIONES INTERACTIVOS -->
+      <td width="50%" valign="top" style="border: none; padding-right: 20px; text-align: left;">
+        <h3>⚡ Resumen Profesional</h3>
+        <p>Construyo soluciones de software que equilibran un rendimiento excepcional con interfaces intuitivas. Mi enfoque va más allá de escribir código; diseño experiencias, arquitecturas escalables y flujos de trabajo optimizados.</p>
+        
+        <br/>
+        <!-- SECCIONES INTERACTIVAS: Permite al visitante hacer click para explorar -->
+        <details>
+          <summary><b>🛠️ Mi Stack Principal (Click para expandir)</b></summary>
+          <br/>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,tailwind,docker,aws&perline=4" />
+            </a>
+          </div>
+          <br/>
+        </details>
+
+        <details>
+          <summary><b>🌱 Filosofía de Desarrollo</b></summary>
+          <p>Priorizo la <b>escalabilidad</b>, <b>mantenibilidad</b> y <b>accesibilidad</b>. Uso metodologías ágiles y principios SOLID para asegurar que la arquitectura de backend sea tan limpia como la experiencia del usuario frontend.</p>
+        </details>
+
+        <details>
+          <summary><b>📫 Contacto y Redes</b></summary>
+          <p>
+            • <a href="https://linkedin.com/in/TU_LINKEDIN">Perfil de LinkedIn</a> <br>
+            • <a href="mailto:tu_correo@gmail.com">Contacto por Correo Electrónico</a> <br>
+            • <a href="TU_WEB_O_PORTAFOLIO">Portafolio Personal</a>
+          </p>
+        </details>
+      </td>
+
+      <!-- COLUMNA DERECHA: MÉTRICAS TOTALMENTE TRANSPARENTES -->
+      <td width="50%" valign="top" style="border: none;" align="center">
+        <!-- Tarjetas sin fondo para que se integren 100% al tema oscuro/claro del visitante -->
+        <img src="https://github-readme-stats.vercel.app/api?username=KmsBismarck003&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KmsBismarck003&theme=transparent&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&stroke=00000000&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
+      </td>
+      
+    </tr>
+  </table>
+</div>
+
+<br/><br/>
+
+<!-- SECCIÓN DE PROYECTOS (Diseño basado puramente en tipografía y espacio, sin imágenes placeholder falsas) -->
+<h3 align="center">Proyectos y Arquitecturas</h3>
+<br/>
+<div align="center">
+  <table width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td width="50%" align="center" style="padding: 20px; border-right: 1px solid #30363d;">
+        <h4>🌐 Plataforma E-Commerce (Ejemplo)</h4>
+        <p><i>Arquitectura de Microservicios</i></p>
+        <p style="font-size: 0.9em; color: #8b949e;">Sistema escalable diseñado para alto tráfico, implementando pasarelas de pago seguras y gestión de inventario en tiempo real.</p>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" />
+      </td>
+      <td width="50%" align="center" style="padding: 20px;">
+        <h4>📊 Dashboard de Analítica</h4>
+        <p><i>Procesamiento en Tiempo Real</i></p>
+        <p style="font-size: 0.9em; color: #8b949e;">Aplicación de visualización de datos complejos de negocio, con un fuerte enfoque en UX y tiempos de carga reducidos.</p>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- ENLACES DE CONTACTO PROFESIONALES -->
+<!-- FOOTER ANIMADO (Cierra el diseño con estilo) -->
 <div align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:tu_correo@email.com"><img src="https://img.shields.io/badge/Correo_Profesional-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="URL_DE_TU_PORTAFOLIO"><img src="https://img.shields.io/badge/Portafolio_Web-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio"></a>
-</div>
-
-<br/><hr/><br/>
-
-<!-- PERFIL PROFESIONAL (Usando insignias en lugar de viñetas con emojis para un look ultra limpio) -->
-<div align="center">
-  <h3>Perfil Profesional</h3>
-  <br/>
-  <img src="https://img.shields.io/badge/Trabajando_actualmente_en-Desarrollo_Full_Stack-0D1117?style=flat-square&logo=github&logoColor=38BDF8" alt="Trabajo" />
-  <img src="https://img.shields.io/badge/Aprendiendo_a_fondo-Arquitectura_Cloud-0D1117?style=flat-square&logo=amazon-aws&logoColor=38BDF8" alt="Aprendiendo" />
-  <br/>
-  <img src="https://img.shields.io/badge/Abierto_a_colaborar_en-Proyectos_Open_Source-0D1117?style=flat-square&logo=open-source-initiative&logoColor=38BDF8" alt="Colaboración" />
-  <img src="https://img.shields.io/badge/Especialidades-Java_|_React_|_Bases_de_Datos-0D1117?style=flat-square&logo=codeigniter&logoColor=38BDF8" alt="Especialidades" />
-</div>
-
-<br/><hr/><br/>
-
-<!-- STACK TECNOLÓGICO -->
-<div align="center">
-  <h3>Stack Tecnológico</h3>
-  <br/>
-  <a href="https://skillicons.dev">
-    <!-- Cambia la "i=" por las tecnologías que tú uses -->
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nodejs,express,html,css,tailwind&perline=10" alt="Tech Stack" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,linux,figma,postman,vscode&perline=10" alt="Tools Stack" />
-  </a>
-</div>
-
-<br/><hr/><br/>
-
-<!-- MÉTRICAS DE GITHUB (Ya configuradas para tu usuario: KmsBismarck003) -->
-<div align="center">
-  <h3>Métricas de Rendimiento</h3>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KmsBismarck003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=38BDF8&text_color=A9B1D6" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KmsBismarck003&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KmsBismarck003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=A9B1D6" alt="Top Languages" width="55%" />
-</div>
-
-<br/><hr/><br/>
-
-<!-- PROYECTOS DESTACADOS -->
-<div align="center">
-  <h3>Proyectos Destacados</h3>
-  <br/>
-
-| Interfaz / Preview | Detalles Técnicos |
-| :---: | :--- |
-| <img src="https://via.placeholder.com/350x200/0D1117/38BDF8?text=Captura+de+Pantalla+1" width="300" style="border-radius:8px;"> | **[Título del Proyecto 1](#)**<br><br>Una descripción profesional y concisa sobre la arquitectura, el problema que resuelve y las tecnologías involucradas. Se enfoca en el rendimiento y la escalabilidad.<br><br> <img src="https://img.shields.io/badge/Java-0D1117?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat&logo=mysql&logoColor=white"> |
-| <img src="https://via.placeholder.com/350x200/0D1117/38BDF8?text=Captura+de+Pantalla+2" width="300" style="border-radius:8px;"> | **[Título del Proyecto 2](#)**<br><br>Detalles sobre la interfaz, integración continua (CI/CD) y la experiencia de usuario que aporta esta aplicación.<br><br> <img src="https://img.shields.io/badge/React-0D1117?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Docker-0D1117?style=flat&logo=docker&logoColor=white"> |
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
